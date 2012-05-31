@@ -1,5 +1,6 @@
 Modification provenant d'une première personne...
 
+C'est un test d'HUGUES !!!
 
 CONTENTS OF THIS FILE
 ---------------------
