@@ -1,3 +1,5 @@
+Je suis dans la nouvelle branche...
+
 C'est un test d'HUGUES !!!
 
 CONTENTS OF THIS FILE
